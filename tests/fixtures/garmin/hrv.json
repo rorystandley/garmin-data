@@ -1,0 +1,13 @@
+{
+  "hrvSummary": {
+    "calendarDate": "2026-01-15",
+    "weeklyAvg": 62,
+    "lastNight": 65,
+    "lastNight5MinHigh": 88,
+    "status": "BALANCED",
+    "baseline": {
+      "lowUpper": 48,
+      "balancedLow": 55
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-01-15",
+    "charged": 45,
+    "drained": 38,
+    "startValue": 68,
+    "endValue": 75
+  },
+  {
+    "date": "2026-01-16",
+    "charged": 52,
+    "drained": 44,
+    "startValue": 75,
+    "endValue": 83
+  }
+]

@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# Secrets and credentials — never commit these
+.env
+*.db
+*.sqlite
+*.sqlite3
+
+# Garmin token store
+.garmin_tokens/
+garmin_tokens/
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Claude Code local settings (contains machine-specific paths)
+.claude/

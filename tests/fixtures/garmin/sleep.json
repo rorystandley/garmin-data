@@ -1,0 +1,20 @@
+{
+  "dailySleepDTO": {
+    "calendarDate": "2026-01-15",
+    "sleepTimeSeconds": 26100,
+    "deepSleepSeconds": 5400,
+    "lightSleepSeconds": 12600,
+    "remSleepSeconds": 6300,
+    "awakeSleepSeconds": 1800,
+    "restingHeartRate": 52,
+    "avgOvernightHrv": 58,
+    "sleepScores": {
+      "overall": {
+        "value": 78,
+        "qualifierKey": "GOOD"
+      }
+    },
+    "avgSleepBreathingRate": 14.2
+  },
+  "averageSpO2Value": 96.8
+}
