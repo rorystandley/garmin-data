@@ -17,7 +17,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.13",
-    "Topic :: Health and Fitness",
+    "Topic :: Utilities",
 ]
 dependencies = [
     "garminconnect>=0.3.3",
